@@ -26,27 +26,6 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/hackerrank',
-        destination: 'https://hackerrank.com/vaishnavmanoj',
-        permanent: true,
-      },
-      {
-        source: '/linkedin',
-        destination: 'https://www.linkedin.com/in/vaishnav-mk/',
-        permanent: true,
-      },
-      {
-        source: '/leetcode',
-        destination: 'https://leetcode.com/vaishnavmanoj/',
-        permanent: true,
-      },
-      {
-        source: '/view-resume',
-        destination:
-          'https://drive.google.com/file/d/1Y5u1DWuRoZt7wwI7udkbeEZX2MraQazY/view',
-        permanent: true,
-      },
-      {
         source: '/secret',
         destination: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         permanent: true,
