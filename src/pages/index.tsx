@@ -7,6 +7,7 @@ const Home = () => {
     <>
       <GenericMeta
         title="Reizy"
+        description="Owner of Malfunzionato Records Independent"
       />
       <MainLayout margin={false}>
         <Hero />
