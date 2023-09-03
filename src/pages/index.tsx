@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <>
       <GenericMeta
-        title="Reizy"
-        description="Owner of Malfunzionato Records Independent"
+        title="Vaishnav"
+        description="Tech enthusiast and full stack developer constantly pushing the boundaries of what's possible."
       />
       <MainLayout margin={false}>
         <Hero />
