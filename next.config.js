@@ -1,6 +1,6 @@
 module.exports = {
-  reactStrictMode: true,
-  poweredByHeader: false,
+  reactStrictMode: false,
+  poweredByHeader: true,
   images: {
     domains: ['skillicons.dev', 'i.scdn.co', 'http.cat', 'www.udemy.com'],
   },
@@ -12,17 +12,17 @@ module.exports = {
     return [
       {
         source: '/github',
-        destination: 'https://github.com/vaishnav-mk',
+        destination: 'https://github.com/P0rc0D10',
         permanent: true,
       },
       {
         source: '/twitter',
-        destination: 'https://twitter.com/Vaishna07767409',
+        destination: 'https://twitter.com/reizyishere',
         permanent: true,
       },
       {
         source: '/mail',
-        destination: 'mailto:vaishnav-mk@duck.com',
+        destination: 'mailto:hi@reizy.eu',
         permanent: true,
       },
       {
