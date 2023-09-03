@@ -19,12 +19,12 @@ export const MainLayout = ({
   return (
     <>
       {title && description && (
-        <GenericMeta title="Reizy" description="Owner of Malfunzionato Records Independent. Admin on Torta Factory Discord Server and Owner on the Minecraft server." />
+        <GenericMeta title={title} description={description} />
       )}
 
       <FadeIn>
         {description && (
-          <p className="text-gray-600 dark:text-gray-400 mt-2">Owner of Malfunzionato Records Independent. Admin on Torta Factory Discord Server and Owner on the Minecraft server.</p>
+          <p className="text-gray-600 dark:text-gray-400 mt-2">{description}</p>
         )}
         <div className={margin ? 'mt-8' : undefined}>{children}</div>
         <Footer />
