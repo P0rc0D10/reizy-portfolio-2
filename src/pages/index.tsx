@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <>
       <GenericMeta
-        title="Vaishnav"
-        description="Tech enthusiast and full stack developer constantly pushing the boundaries of what's possible."
+        title="Reizy"
+        description="Owner of Malfunzionato Records Independent. Admin on Torta Factory Discord Server and Owner on the Minecraft server."
       />
       <MainLayout margin={false}>
         <Hero />
