@@ -32,7 +32,7 @@ export default function Hero() {
             <h1 className="flex gap-2">
               I&apos;m
               <div className="text-butLight hover:text-bgDark hover:dark:text-bgLight transition-colors duration-500 underline-offset-2 decoration-2 underline decoration-[#36D399] select-none">
-                Vaishnav
+                Reizy
               </div>
             </h1>
           </div>
@@ -41,9 +41,7 @@ export default function Hero() {
           </div>
           <div className="grid ">
             <div className="text-lg 2xl:text-2xl">
-              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Constantly
-              pushing the boundaries of what I know to create weird and
-              wonderful projects.
+              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Owner of Malfunzionato Records Independent. Admin on Torta Factory Discord Server and Owner on the Minecraft server.
             </div>
             <div className="text-lg 2xl:text-2xl">
               <Weather />
