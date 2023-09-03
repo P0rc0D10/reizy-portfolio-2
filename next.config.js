@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: false,
-  poweredByHeader: true,
+  poweredByHeader: false,
   images: {
     domains: ['skillicons.dev', 'i.scdn.co', 'http.cat', 'www.udemy.com'],
   },
