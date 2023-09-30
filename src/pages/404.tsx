@@ -6,7 +6,7 @@ export default function Index() {
   return (
     <>
       <GenericMeta
-        title="Vaishnav | 404"
+        title="Reizy | 404"
         description="Oops! This page doesn't exist!"
       />
 
