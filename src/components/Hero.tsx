@@ -41,7 +41,7 @@ export default function Hero() {
           </div>
           <div className="grid ">
             <div className="text-lg 2xl:text-2xl">
-              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Owner of Malfunzionato Records Independent and Reizy's Services Italy.
+              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Owner of Malfunzionato Records Independent and Reizy Services Italy.
             </div>
             <div className="text-lg 2xl:text-2xl">
               <Weather />
