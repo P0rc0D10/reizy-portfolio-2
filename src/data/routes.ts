@@ -11,20 +11,20 @@ export interface Route {
 
 export const RouteData: Route[] = [
   {
-    name: 'resume',
-    href: '/resume',
+    name: 'Contact Me!',
+    href: '/mail',
     icon: ['fas', 'file'],
     locked: false,
   },
   {
-    name: 'blog',
-    href: '/blog',
+    name: 'Old Portfolio',
+    href: '/old',
     icon: ['fas', 'square-rss'],
     locked: false,
   },
   {
     name: 'Creator',
-    href: 'https://github.com/vaishnav-mk/portfolio',
+    href: '/creator',
     icon: ['fas', 'heart'],
     type: 'dropdown',
     hex: '#d6336c',
@@ -34,25 +34,21 @@ export const RouteData: Route[] = [
     href: '/projects',
     icon: ['fas', 'list-check'],
     type: 'dropdown',
+    locked: true,
   },
   {
     name: 'stack',
     href: '/skills',
     type: 'dropdown',
     icon: ['fas', 'square-check'],
+    locked: true,
   },
   {
     name: 'certificates',
     href: '/certificates',
     type: 'dropdown',
     icon: ['fas', 'ranking-star'],
-    locked: false,
-  },
-  {
-    name: 'contact',
-    href: '/contact',
-    type: 'dropdown',
-    icon: ['fas', 'paper-plane'],
+    locked: true,
   },
   {
     name: 'involvement',

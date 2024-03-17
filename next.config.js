@@ -30,6 +30,16 @@ module.exports = {
         destination: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         permanent: true,
       },
+      {
+        source: '/creator',
+        destination: 'https://github.com/vaishnav-mk/portfolio',
+        permanent: false,
+      },
+      {
+        source: '/old',
+        destination: 'https://old.reizy.eu',
+        permanent: false,
+      },
     ]
   },
 }

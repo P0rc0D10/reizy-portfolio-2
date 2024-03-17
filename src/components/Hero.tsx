@@ -52,7 +52,7 @@ export default function Hero() {
       <div className="mt-4 btn-group grid grid-cols-2 justify-between outline outline-2 rounded-md">
         <Link href="https://malfunzionatorecords.com">
           <div className="btn btn-ghost  gap-2 text-lightText rounded-md">
-            <FontAwesomeIcon className="w-4 h-4" icon={['fas', 'file']} />
+            <FontAwesomeIcon className="w-4 h-4" icon={['']} />
             Malfunzionato Records Independent
           </div>
         </Link>

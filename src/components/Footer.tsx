@@ -98,11 +98,11 @@ export default function Footer() {
             </svg>
           </a>
           <a
-            href="/linkedin"
+            href="/telegram"
             target="_blank"
             rel="noreferrer"
             className="btn btn-ghost"
-            aria-label="LinkedIn"
+            aria-label="Telegram"
           >
             {' '}
             <svg
@@ -122,11 +122,11 @@ export default function Footer() {
         </div>
         <div className="btn-group grid grid-cols-2 justify-between md:justify-end w-full rounded-md outline md:outline-2">
           <a
-            href="/hackerrank"
+            href="/youtube"
             target="_blank"
             rel="noreferrer"
             className="btn btn-ghost"
-            aria-label="HackerRank"
+            aria-label="Youtube"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -143,11 +143,11 @@ export default function Footer() {
             </svg>
           </a>
           <a
-            href="/leetcode"
+            href="/spotify"
             target="_blank"
             rel="noreferrer"
             className="btn btn-ghost"
-            aria-label="LeetCode"
+            aria-label="Spotify"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
