@@ -41,7 +41,7 @@ const Time = () => {
 
   return (
     <>
-      <div className="tooltip tooltip-right" data-tip="Timezone: UTC+5:30">
+      <div className="tooltip tooltip-right" data-tip="Timezone: UTC+1">
         <FontAwesomeIcon
           className=""
           icon={
