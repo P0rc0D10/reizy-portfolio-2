@@ -23,7 +23,7 @@ export const RouteData: Route[] = [
     locked: false,
   },
   {
-    name: 'Creator',
+    name: 'Credits to',
     href: '/creator',
     icon: ['fas', 'heart'],
     type: 'dropdown',
