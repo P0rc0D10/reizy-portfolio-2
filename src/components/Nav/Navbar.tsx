@@ -40,7 +40,7 @@ export const Navbar = () => {
             <div className="w-10 mask mask-squircle">
               <Image
                 src="/profile.webp"
-                alt="vaishnav profile"
+                alt="reizy profile"
                 className="rounded-xl rounded-tl-none"
                 width={300}
                 height={300}
