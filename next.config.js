@@ -40,6 +40,11 @@ module.exports = {
         destination: 'https://old.reizy.eu',
         permanent: false,
       },
+      {
+        source: '/3am',
+        destination: 'https://open.spotify.com/playlist/4bfwHTDgOOHdClUcD6KZ84?si=86ca3df3bd0c4484',
+        permanent: false,
+      },
     ]
   },
 }
