@@ -17,7 +17,7 @@ export const RouteData: Route[] = [
     locked: false,
   },
   {
-    name: 'Old Portfolio',
+    name: 'Old',
     href: '/old',
     icon: ['fas', 'square-rss'],
     locked: false,
