@@ -15,7 +15,7 @@ export default function Hero() {
           <label htmlFor="egg" className="modal-button">
             <Image
               src="/hero.webp"
-              alt="vaishnav profile"
+              alt="reizy's pfp"
               className="rounded-xl rounded-tl-none hover:hue-rotate-90 transition-all duration-500 scale-75 hover:scale-100 rotate-6 hover:rotate-0 cursor-pointer"
               width={400}
               height={400}
@@ -41,7 +41,7 @@ export default function Hero() {
           </div>
           <div className="grid ">
             <div className="text-lg 2xl:text-2xl">
-              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Owner of Malfunzionato Records Independent. Admin on Torta Factory Discord Server and Owner on the Minecraft server.
+              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Owner of Malfunzionato Records Independent and Reizy's Services Italy.
             </div>
             <div className="text-lg 2xl:text-2xl">
               <Weather />
@@ -50,10 +50,10 @@ export default function Hero() {
         </div>
       </div>
       <div className="mt-4 btn-group grid grid-cols-2 justify-between outline outline-2 rounded-md">
-        <Link href="/resume">
+        <Link href="https://malfunzionatorecords.com">
           <div className="btn btn-ghost  gap-2 text-lightText rounded-md">
             <FontAwesomeIcon className="w-4 h-4" icon={['fas', 'file']} />
-            Resume
+            Malfunzionato Records Independent
           </div>
         </Link>
         <Link href="/contact">
@@ -72,7 +72,7 @@ export default function Hero() {
         >
           <label className="modal-box relative bg-slate-400 dark:bg-slate-700">
             <h3 className="text-lg font-bold text-slate-700 dark:text-slate-300">
-              🥚 Oh, you found the secret! :)
+              🥚 Oh, you found the secret! :3
             </h3>
             <div className="py-4">
               <Image

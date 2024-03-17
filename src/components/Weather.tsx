@@ -47,7 +47,7 @@ export const Weather = () => {
         target="_blank"
         className="font-bold focus:outline-none transition duration-300 ease-in-out hover:text-[#36D399]"
       >
-        Padova, Veneto, Italy
+        Padua, Veneto, Italy
       </a>
       .
     </motion.div>

@@ -23,8 +23,8 @@ export const RouteData: Route[] = [
     locked: false,
   },
   {
-    name: 'open source',
-    href: '/opensource',
+    name: 'Creator',
+    href: 'https://github.com/vaishnav-mk/portfolio',
     icon: ['fas', 'heart'],
     type: 'dropdown',
     hex: '#d6336c',

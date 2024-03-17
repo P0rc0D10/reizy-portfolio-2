@@ -34,7 +34,7 @@ const Github = () => {
   return (
     <>
       <GenericMeta
-        title="Vaishnav | Open Source"
+        title="Reizy | Open Source"
         description="An overview of my open source contributions!"
       />
       <MainLayout margin={false}>

@@ -6,7 +6,7 @@ const Achievements = () => {
   return (
     <>
       <GenericMeta
-        title="Vaishnav | Certificates"
+        title="Reizy | Certificates"
         description="An overview of my certificates!"
       />
       <MainLayout margin={false}>
