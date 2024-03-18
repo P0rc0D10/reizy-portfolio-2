@@ -7,7 +7,7 @@ const Home = () => {
     <>
       <GenericMeta
         title="Reizy"
-        description="Owner of Malfunzionato Records Independent. Admin on Torta Factory Discord Server and Owner on the Minecraft server."
+        description="Owner of Malfunzionato Records Independent and Reizy Services Italy."
       />
       <MainLayout margin={false}>
         <Hero />
