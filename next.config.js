@@ -22,7 +22,7 @@ module.exports = {
       },
       {
         source: '/mail',
-        destination: 'mailto:hi@reizy.eu',
+        destination: '/contactme',
         permanent: true,
       },
       {
@@ -47,6 +47,11 @@ module.exports = {
       },
       {
         source: '/contact',
+        destination: 'https://t.me/mxlfunzionato',
+        permanent: false,
+      },
+      {
+        source: '/contactme',
         destination: 'https://t.me/mxlfunzionato',
         permanent: false,
       },
