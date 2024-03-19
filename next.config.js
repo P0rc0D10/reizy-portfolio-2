@@ -45,6 +45,11 @@ module.exports = {
         destination: 'https://open.spotify.com/playlist/4bfwHTDgOOHdClUcD6KZ84?si=86ca3df3bd0c4484',
         permanent: false,
       },
+      {
+        source: '/contact',
+        destination: 'https://t.me/mxlfunzionato',
+        permanent: false,
+      },
     ]
   },
 }
