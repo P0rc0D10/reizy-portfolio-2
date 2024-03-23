@@ -18,7 +18,7 @@ export default function Footer() {
               <FontAwesomeIcon
                 icon={['fab', 'spotify']}
                 className={`${
-                  data?.title && data?.artists
+                  data?.title && data?.artist
                     ? 'animate-bounce duration-300 transition-all '
                     : null
                 }`}
