@@ -144,7 +144,7 @@ export default function Footer() {
             </svg>
           </a>
           <a
-            href="/spotify"
+            href="/spotifyprofile"
             target="_blank"
             rel="noreferrer"
             className="btn btn-ghost"

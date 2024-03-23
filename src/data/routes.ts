@@ -17,9 +17,9 @@ export const RouteData: Route[] = [
     locked: false,
   },
   {
-    name: 'Old',
-    href: '/old',
-    icon: ['fas', 'square-rss'],
+    name: 'Spotify',
+    href: '/spotify',
+    icon: ['fas', 'spotify'],
     locked: false,
   },
   {
