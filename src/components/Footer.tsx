@@ -14,7 +14,7 @@ export default function Footer() {
       <div className="overflow-hidden">
         <h2 className=" landingSectionTitle relative mb-4 mt-4 w-max">
           <div className="btn btn-success btn-outline gap-2 font-semibold text-sm sm:text-regular">
-          <Link href={songUrl}>
+            <Link href={`${data?.isPlaying ? '/spotify' : ''}`}>
               <FontAwesomeIcon
                 icon={['fab', 'spotify']}
                 className={`${
