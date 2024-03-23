@@ -14,14 +14,10 @@ export default function Footer() {
       <div className="overflow-hidden">
         <h2 className=" landingSectionTitle relative mb-4 mt-4 w-max">
           <div className="btn btn-success btn-outline gap-2 font-semibold text-sm sm:text-regular">
-            <Link href={`${data?.isPlaying ? '/spotify' : ''}`}>
+            <Link href={`${data?.isPlaying ? '/spotify' : '/spotify'}`}>
               <FontAwesomeIcon
                 icon={['fab', 'spotify']}
-                className={`${
-                  data?.title
-                    ? 'animate-bounce duration-300 transition-all '
-                    : null
-                }`}
+              className={`${data?.title && data?.artist ? 'animate-bounce duration-300 transition-all ' : ''}`}
               />
             </Link>
             {data?.title ? truncate(data?.title, 30) : 'Not Playing – Spotify'}
