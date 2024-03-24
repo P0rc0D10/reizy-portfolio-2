@@ -55,6 +55,11 @@ module.exports = {
         destination: 'https://t.me/mxlfunzionato',
         permanent: false,
       },
+      {
+        source: '/testdellamicizia',
+        destination: 'https://psycatgames.com/it/app/friendship-quiz/?id=ngsu-f9eu-h21o ',
+        permanent: false,
+      },
     ]
   },
 }
