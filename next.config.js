@@ -56,7 +56,7 @@ module.exports = {
         permanent: false,
       },
       {
-        source: '/testdellamicizia',
+        source: '/testsullamicizia',
         destination: 'https://psycatgames.com/it/app/friendship-quiz/?id=ngsu-f9eu-h21o ',
         permanent: false,
       },
