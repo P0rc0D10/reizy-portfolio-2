@@ -42,7 +42,7 @@ export const Weather = () => {
       </span>{' '}
       in{' '}
       <a
-        href="https://weather.com/en-GB/weather/today/l/304a29c4508c568c8e13bf32c284cac0458f7966d589c282a048044f9eef7d43"
+        href="https://weather.com/en-GB/weather/today/l/48019c7905845ce90e6569d362519033123d84670d35df402b1c6af25575e793"
         rel="noopener noreferrer"
         target="_blank"
         className="font-bold focus:outline-none transition duration-300 ease-in-out hover:text-[#36D399]"

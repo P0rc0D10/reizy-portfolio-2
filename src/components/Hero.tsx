@@ -31,7 +31,7 @@ export default function Hero() {
             Hey there!
             <h1 className="flex gap-2">
               I&apos;m
-              <div className="text-butLight hover:text-bgDark hover:dark:text-bgLight transition-colors duration-500 underline-offset-2 decoration-2 underline decoration-[#36D399] select-none">
+              <div className="text-butLight hover:text-bgDark hover:dark:text-bgLight transition-colors duration-500 underline-offset-2 decoration-2 underline decoration-[#9B4F96] select-none">
                 Reizy
               </div>
             </h1>
@@ -83,7 +83,7 @@ export default function Hero() {
                 className="rounded-md"
               />
               <Link href="/secret">
-                <div className="btn btn-ghost w-full bg-slate-500 dark:bg-[#434955] text-slate-700 dark:text-[#D94D2C] rounded-none rounded-b-md gap-2 h-auto p-3 shadow-xl">
+                <div className="btn btn-ghost w-full bg-slate-500 dark:bg-[#434955] text-slate-700 dark:text-[#9B4F96] rounded-none rounded-b-md gap-2 h-auto p-3 shadow-xl">
                   <div className="badge gap-2 badge-error rounded-md badge-outline badge-lg h-auto animate-bounce">
                     QR Code not working? Click here!
                   </div>
