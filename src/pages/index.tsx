@@ -7,7 +7,7 @@ const Home = () => {
     <>
       <GenericMeta
         title="Reizy"
-        description="Owner of Malfunzionato Records Independent and Reizy Services Italy."
+        description="Founder of Malfunzionato Music Group (ex. Malfunzionato Records Independent) and Reizy Services Italy."
       />
       <MainLayout margin={false}>
         <Hero />
