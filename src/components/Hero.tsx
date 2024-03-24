@@ -24,7 +24,7 @@ export default function Hero() {
               priority
             />
           </label>
-          <Circles color="#36D399" />
+          <Circles color="#9B4F96" />
         </div>
         <div>
           <div className="text-4xl">
