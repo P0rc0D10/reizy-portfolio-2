@@ -28,7 +28,7 @@ export const Weather = () => {
       </div>{' '}
       It&apos;s currently{' '}
       {(celsius < 8 && <span className="mr-1">❄️</span>) ||
-        (celsius > 30 && <span className="mr-1">🔥</span>)}
+        (celsius > 21 && <span className="mr-1">🔥</span>)}
       <span
         onMouseOver={toggleTemperature}
         onMouseLeave={toggleTemperature}
