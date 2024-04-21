@@ -11,6 +11,7 @@ export default function Hero() {
   return (
     <>
       <a rel="me" href="https://tech.lgbt/@dispaisy"></a>
+      <a rel="me" href="https://en.pronouns.page/@DisPaisy"></a>
       <div className="flex flex-col lg:flex-row gap-5 items-center">
         <div className="relative z-10 mt-10 md:mt-0">
           <label htmlFor="egg" className="modal-button">
