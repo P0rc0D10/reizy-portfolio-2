@@ -25,7 +25,6 @@ export const MainLayout = ({
       <FadeIn>
         {description && (
           <p className="text-gray-600 dark:text-gray-400 mt-2">{description}</p>
-          <a rel="me" href="https://tech.lgbt/@dispaisy">Mastodon</a>
         )}
         <div className={margin ? 'mt-8' : undefined}>{children}</div>
         <Footer />
