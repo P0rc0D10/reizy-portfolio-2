@@ -43,7 +43,7 @@ export default function Hero() {
           </div>
           <div className="grid ">
             <div className="text-lg 2xl:text-2xl">
-              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Founder of Malfunzionato Music Group (ex. Malfunzionato Records Independent) and Reizy Services Italy.
+              <FontAwesomeIcon icon={['fas', 'info-circle']} /> Founder of Malfunzionato Music Group (ex. Malfunzionato Records Independent).
             </div>
             <div className="text-lg 2xl:text-2xl">
               <Weather />
@@ -55,7 +55,7 @@ export default function Hero() {
         <Link href="https://malfunzionatorecords.com">
           <div className="btn btn-ghost  gap-2 text-lightText rounded-md">
             <FontAwesomeIcon className="w-4 h-4" icon={['fas', 'music']} />
-            Malfunzionato Records Independent
+            Malfunzionato Music Group
           </div>
         </Link>
         <Link href="/contact">
