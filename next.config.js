@@ -46,8 +46,8 @@ module.exports = {
         permanent: false,
       },
       {
-        source: '/youtube'
-        destination: 'https://www.youtube.com/@DisPaisy'
+        source: '/youtube',
+        destination: 'https://www.youtube.com/@DisPaisy',
         permanent: false,
       },
       {
