@@ -47,7 +47,7 @@ class Page extends React.Component {
       if (!res.success) {
         toast.error(
           res.error ||
-            'There was an error in sending that message, please try again later or email me at hello@vaishnav.tech!',
+            'There was an error in sending that message, please try again later or email me at dis@paisy.lol!',
           {
             id: toastId,
           },
