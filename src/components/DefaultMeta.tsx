@@ -17,7 +17,7 @@ export const GenericMeta = ({ title, description }: Props) => {
       <meta name="description" content={description} />
       <meta property="og:description" content={description} />
       <meta property="og:type" content="website" />
-      <meta property="og:site_name" content="Reizy" />
+      <meta property="og:site_name" content="DisPaisy" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:url" content="https://dis.paisy.lol" />
       <meta property="og:image" content="/profile.gif" />
