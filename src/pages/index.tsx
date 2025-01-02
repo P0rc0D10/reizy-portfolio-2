@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <>
       <GenericMeta
-        title="Reizy"
-        description="Founder of Malfunzionato Music Group (ex. Malfunzionato Records Independent) and Reizy Services Italy."
+        title="DisPaisy"
+        description="Founder of lyable distribution & Cat lover 🐈"
       />
       <MainLayout margin={false}>
         <Hero />
