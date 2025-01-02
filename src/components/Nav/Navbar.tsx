@@ -16,7 +16,7 @@ const NavbarItem = ({ name, href, icon, locked }: Omit<Route, 'type'>) => {
         }`}
       >
         {icon && <FontAwesomeIcon className="w-4 h-4" icon={icon} />}
-        {name !== 'home' && <span>Redacted</span>}
+        {name !== 'home' && <span>{name}</span>}
         {locked ? (
           <div className="my-4 relative z-10">
             <div className="absolute -left-7 -top-7 z-[-1] badge badge-xs badge-error">
