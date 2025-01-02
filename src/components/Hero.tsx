@@ -18,7 +18,7 @@ export default function Hero() {
             <Image
               src="/hero.webp"
               alt="reizy pfp"
-              className="rounded-xl rounded-tl-none hover:hue-rotate-90 transition-all duration-500 scale-75 hover:scale-100 rotate-6 hover:rotate-0 cursor-pointer"
+              className="rounded-xl rounded-tl-none transition-all duration-500 scale-75 hover:scale-100 rotate-6 hover:rotate-0 cursor-pointer"
               width={400}
               height={400}
               placeholder="blur"
