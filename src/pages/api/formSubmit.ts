@@ -38,7 +38,7 @@ export default async function handler(
   try {
     const form: any = new FormData()
     form.append('from', `Portfolio Contact Form <${name}> <${email}>`)
-    form.append('to', `hi@reizy.eu`)
+    form.append('to', `dis@paisy.lol`)
     form.append('subject', `Portfolio Contact Form - ${name}`)
     form.append('text', `${message} \n--contact me at ${email}`)
 
