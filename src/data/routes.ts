@@ -49,7 +49,7 @@ export const RouteData: Route[] = [
     href: '/certificates',
     type: 'dropdown',
     icon: ['fas', 'ranking-star'],
-    locked: false,
+    locked: true,
   },
   {
     name: 'involvement',
