@@ -121,50 +121,6 @@ export default function Footer() {
           </svg>
           </a>
         </div>
-        <div className="btn-group grid grid-cols-2 justify-between md:justify-end w-full rounded-md outline md:outline-2">
-          <a
-            href="/contactme"
-            target="_blank"
-            rel="noreferrer"
-            className="btn btn-ghost"
-            aria-label="Telegram"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 512 512"
-              className="mx-2 hover:scale-110 fill-lightText hover:fill-butDark hover:text-butDark transition duration-200 ease-in-and-out"
-              width="800"
-              height="800"
-              fill="none"
-              stroke="currentColor"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            >
-            <path d="M14 7.5C14 11.0897 11.0903 14 7.5 14V15C11.6426 15 15 11.6419 15 7.5H14ZM7.5 14C3.90974 14 1 11.0897 1 7.5H0C0 11.6419 3.35739 15 7.5 15V14ZM1 7.5C1 3.91029 3.90974 1 7.5 1V0C3.35739 0 0 3.35806 0 7.5H1ZM7.5 1C11.0903 1 14 3.91029 14 7.5H15C15 3.35806 11.6426 0 7.5 0V1ZM3.6619 10.1162C4.64825 9.87576 5.86144 9.77072 7.05416 9.88791C8.25009 10.0054 9.38823 10.3424 10.2559 10.9525L10.8311 10.1345C9.77768 9.39382 8.45578 9.02081 7.15195 8.8927C5.84491 8.76428 4.51862 8.87807 3.42506 9.14466L3.6619 10.1162ZM3.32624 7.99237C6.772 7.38275 9.17433 7.69462 11.1649 9.12359L11.7481 8.31123C9.44985 6.66142 6.73182 6.37433 3.15202 7.00766L3.32624 7.99237ZM3.10135 5.84102C4.45435 5.36298 6.10442 5.1645 7.72549 5.29726C9.34836 5.43016 10.9042 5.8917 12.0886 6.69623L12.6505 5.86901C11.2863 4.94241 9.55125 4.44343 7.80712 4.30059C6.06118 4.15761 4.26817 4.36818 2.76821 4.89814L3.10135 5.84102Z"></path>
-            </svg>
-          </a>
-          <a
-            href="/spotifyprofile"
-            target="_blank"
-            rel="noreferrer"
-            className="btn btn-ghost"
-            aria-label="Spotify"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="mx-2 hover:scale-110 fill-lightText hover:fill-butDark hover:text-butDark transition duration-200 ease-in-and-out"
-              width="30"
-              height="30"
-              viewBox="0 0 640 512"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="20"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            >
-              <path d="M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z" />
-            </svg>
-          </a>
         </div>
       </div>
     </>
