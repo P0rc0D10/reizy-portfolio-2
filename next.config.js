@@ -17,7 +17,7 @@ module.exports = {
       },
       {
         source: '/twitter',
-        destination: 'https://twitter.com/reizyishere',
+        destination: 'https://twitter.com/dispaisy',
         permanent: true,
       },
       {
@@ -45,19 +45,14 @@ module.exports = {
         destination: 'https://playlist.link/mri-3amvibes',
         permanent: false,
       },
-      {
-        source: '/contact',
-        destination: 'https://t.me/mxlfunzionato',
+      }
+        source: '/youtube'
+        destination: 'https://www.youtube.com/@DisPaisy'
         permanent: false,
       },
       {
         source: '/contactme',
-        destination: 'https://t.me/mxlfunzionato',
-        permanent: false,
-      },
-      {
-        source: '/testsullamicizia',
-        destination: 'https://psycatgames.com/it/app/friendship-quiz/?id=ngsu-f9eu-h21o ',
+        destination: '/contact',
         permanent: false,
       },
     ]
