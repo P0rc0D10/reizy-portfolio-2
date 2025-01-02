@@ -45,7 +45,7 @@ module.exports = {
         destination: 'https://playlist.link/mri-3amvibes',
         permanent: false,
       },
-      }
+      {
         source: '/youtube'
         destination: 'https://www.youtube.com/@DisPaisy'
         permanent: false,
