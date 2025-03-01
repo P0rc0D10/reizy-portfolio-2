@@ -34,9 +34,7 @@ export default function Hero() {
             <h1 className="flex gap-2">
               I&apos;m
               <div className="text-butLight hover:text-bgDark hover:dark:text-bgLight transition-colors duration-500 underline-offset-2 decoration-2 underline decoration-[#9B4F96] select-none">
-                DisPaisy
-                <div className="text-4xl">
-                  !
+                DisPaisy!
               </div>
             </h1>
           </div>
